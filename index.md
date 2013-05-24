@@ -3,7 +3,8 @@ layout: page
 title: 0xFF
 tagline: Lorem Ipsum
 ---
-{% include JB/setup %}
+
+#{% include JB/setup %}
 
 Read [Wikipedia](http://en.wikipedia.org/wiki/Main_Page)
 
@@ -43,4 +44,5 @@ Here's a sample "posts list".
 This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
 We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
+1234
 
